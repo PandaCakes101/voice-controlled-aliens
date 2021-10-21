@@ -1,0 +1,40 @@
+body {
+    font font-family: 'indie flower';
+    background: #e5dff2;
+
+}
+
+.header_div {
+    background: #9b8ead;
+    color: white;
+
+}
+
+.header_div p {
+    font-family: 'indie flower';
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'indie flower';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #9b8ead;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+
+}
